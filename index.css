@@ -1,0 +1,16 @@
+.qtn {
+    color: grey;
+}
+
+.container {
+    display: flex;
+    /* flex-direction: column; */
+}
+
+.box {
+    height: 200px;
+    width: 200px;
+    border: grey solid 3px;
+    margin: 5px;
+    background-color: #F1D4E5;
+}
